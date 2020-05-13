@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DS1-Challenge-Generator-React/static/css/main.fb2ef231.chunk.css",
+    "main.js": "/DS1-Challenge-Generator-React/static/js/main.feaffa0d.chunk.js",
+    "main.js.map": "/DS1-Challenge-Generator-React/static/js/main.feaffa0d.chunk.js.map",
+    "runtime-main.js": "/DS1-Challenge-Generator-React/static/js/runtime-main.08de0888.js",
+    "runtime-main.js.map": "/DS1-Challenge-Generator-React/static/js/runtime-main.08de0888.js.map",
+    "static/js/2.c24d0e8e.chunk.js": "/DS1-Challenge-Generator-React/static/js/2.c24d0e8e.chunk.js",
+    "static/js/2.c24d0e8e.chunk.js.map": "/DS1-Challenge-Generator-React/static/js/2.c24d0e8e.chunk.js.map",
+    "index.html": "/DS1-Challenge-Generator-React/index.html",
+    "precache-manifest.b5d39bce647cdbee6ba6f443870d612b.js": "/DS1-Challenge-Generator-React/precache-manifest.b5d39bce647cdbee6ba6f443870d612b.js",
+    "service-worker.js": "/DS1-Challenge-Generator-React/service-worker.js",
+    "static/css/main.fb2ef231.chunk.css.map": "/DS1-Challenge-Generator-React/static/css/main.fb2ef231.chunk.css.map",
+    "static/js/2.c24d0e8e.chunk.js.LICENSE.txt": "/DS1-Challenge-Generator-React/static/js/2.c24d0e8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/DS1-Challenge-Generator-React/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08de0888.js",
+    "static/js/2.c24d0e8e.chunk.js",
+    "static/css/main.fb2ef231.chunk.css",
+    "static/js/main.feaffa0d.chunk.js"
+  ]
+}
